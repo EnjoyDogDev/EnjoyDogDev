@@ -6,7 +6,7 @@
 [![Card](https://github-readme-stats.vercel.app/api?username=WhiteTea1&count_private=true&show_icons=true&cache_seconds=1800&locale=ru&hide_border=true&bg_color=05070a&title_color=d7f562&text_color=d7f562&icon_color=d7f562)](https://discord.gg/gdpsfreehost)
 
 - 🔭 Я специализируюсь на кибер-безопастности и GDPS
-- 🌱 Я знаком с [Partur](https://github.com/Partur1) и [bangakek](https://github.com/bang173) (они топ челы)
+- 🌱 Я знаком с [Partur](https://github.com/Partur1) и [bangakek](https://github.com/bang173)
 - 👯 Я отношусь к РК комьюнити. Ииии.. я не знаю почти что не одного языка программирования >D
 - 🤔 Мне 14 лет.
 - 💬 Связь - EviRain#9999 и vka214250@gmail.com
